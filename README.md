@@ -5,9 +5,12 @@
 <br><!---- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...--->
 <h2>Key Skills</h2>
-<b>Languages</b> Java, C/C++, Python
-D1g1t4l F0r3ns1c5
-<h3>CTF Player 🕵🏻‍♂️</h3>
+Java.Servlet/JSP/Hibernate
+<br>C/C++, 
+<br>Python ...
+<br>D1g1t4l F0r3ns1c5 🕵<h3>
+<br>Code breaker 🏻
+<br><h3>CTF Player </h3>
 <br>
 <!---
 mrHSharma/mrHSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
