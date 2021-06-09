@@ -2,13 +2,13 @@
 - 👋 Hi, I’m Himanshu Sharma 
 <br>👀 I’m interested in cyber security
 <br> 🌱 I’m currently learning python and malware analysis
-<br><!---- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...--->
+<br><!--- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...-->
 <h2>Key Skills</h2>
 Java.Servlet/JSP/Hibernate
 <br>C/C++, 
 <br>Python ...
-<br>D1g1t4l F0r3ns1c5 🕵<h3>
+<br>D1g1t4l F0r3ns1c5 🕵</h3>
 <br>Code breaker 🏻
 <br><h3>CTF Player </h3>
 <br>
